@@ -1,0 +1,3 @@
+R([length of side a, width of side b],[centroid],rotaion form x axis in degress, state 1= +ive, 0 = -ive)
+T([length of side a, length of side b, length of side c],[ centeroid ], rotaion form x axis in degress, state)
+C:([Radius],[center],rotation,sector angle,state)
